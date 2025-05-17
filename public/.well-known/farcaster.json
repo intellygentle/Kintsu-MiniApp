@@ -1,0 +1,17 @@
+{
+    "accountAssociation": {
+    "header": "eyJmaWQiOjI4Mjk0MCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweERFYzA3NDQyOTJiYzc1NjFjQTcxZjY0RTcxYTNBOUI0YUY1ZDRkRkEifQ",
+    "payload": "eyJkb21haW4iOiJraW50c3UtbWluaS1hcHAudmVyY2VsLmFwcCJ9",
+    "signature": "MHg5NGM3YzFkMTliZjRhMDAzOTU2OGM5NjU0NmVlZGEyNzJjYTkxMjY1NjNjN2FlNDM4NGUyNTNjNzNjMjliMjc1NTI0ZWRiMDZmYTU1OWJlODJiNzE1Y2MwNjJhMWRjMGRkZGE3ZjNkYjlmZTBkYTliNzg3OWViZjY5ZjYyNGI2YTFj"
+  },
+  "frame": {
+    "version": "1",
+    "name": "kintsu MiniApp",
+    "iconUrl": "https://kintsu-mini-app.vercel.app/icon.png",
+    "homeUrl": "https://kintsu-mini-app.vercel.app/",
+    "imageUrl": "https://kintsu-mini-app.vercel.app/og-image.png",
+    "buttonTitle": "Mint",
+    "splashImageUrl": "https://kintsu-mini-app.vercel.app/icon.png",
+    "splashBackgroundColor": "#eeccff"
+  }
+}
